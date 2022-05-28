@@ -1,3 +1,5 @@
+This is the supplementary source code and data for paper "Predicting Infectious Disease Trend via Similarity Learning of Region's Geospatial Features"
+
 We take the SF dataset as the training data. To reproduce the table 1 and figure 5:
 
 1. run the casestudy_nyc_sf.py
